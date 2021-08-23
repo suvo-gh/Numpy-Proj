@@ -9,17 +9,17 @@ Let us build a complete project using NumPy (without any help).
 Path: project_data = 'KAG_Conversion_Data.csv'
 
                 ***Features:***
-ad_id: unique ID for each ad
-xyzcampaignid: an ID associated with each ad campaign of XYZ company
-fbcampaignid: an ID associated with how Facebook tracks each campaign
-age: age of the person to whom the ad is shown
-gender: gender of the person to whom the add is shown
-interest: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile)
-Impressions: the number of times the ad was shown
-Clicks: number of clicks on for that ad
-Spent: Amount paid by company xyz to Facebook, to show that ad
-Total conversion: Total number of people who enquired about the product after seeing the ad
-Approved conversion: Total number of people who bought the product after seeing the ad
+1.ad_id: unique ID for each ad
+2.xyzcampaignid: an ID associated with each ad campaign of XYZ company
+3.fbcampaignid: an ID associated with how Facebook tracks each campaign
+4.age: age of the person to whom the ad is shown
+5.gender: gender of the person to whom the add is shown
+6.interest: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile)
+7.Impressions: the number of times the ad was shown
+8.Clicks: number of clicks on for that ad
+9.Spent: Amount paid by company xyz to Facebook, to show that ad
+10.Total conversion: Total number of people who enquired about the product after seeing the ad
+11.Approved conversion: Total number of people who bought the product after seeing the ad
 
              ***Instructions:***
 
