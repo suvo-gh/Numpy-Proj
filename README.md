@@ -1,7 +1,6 @@
 # Project: Analysing the ad campaigns using NumPy
-Project done on Numpy
 
-Details of Project:
+Project done on Numpy
 
 ## Project details:
 
