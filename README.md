@@ -1,15 +1,15 @@
-# Numpy-Proj
+# Project: Analysing the ad campaigns using NumPy
 Project done on Numpy
 
 Details of Project:
 
-#Project: Analysing the ad campaigns using NumPy:
+## Project details:
 
 Let us build a complete project using NumPy.
 
 Path: project_data = 'KAG_Conversion_Data.csv'
 
-##Features:
+## Features:
 
 1.ad_id: unique ID for each ad
 
@@ -33,7 +33,7 @@ Path: project_data = 'KAG_Conversion_Data.csv'
 
 11.Approved conversion: Total number of people who bought the product after seeing the ad
 
-##Instructions:
+## Instructions:
 
 -Load the data. Data is already given to you in variable path
 
