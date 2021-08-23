@@ -3,8 +3,8 @@ Project done on Numpy
 
 Details of Project:
 
-                ***PROJECT :***
-Let us build a complete project using NumPy (without any help).
+          ***Project: Analysing the ad campaigns using NumPy:***
+Let us build a complete project using NumPy.
 
 Path: project_data = 'KAG_Conversion_Data.csv'
 
